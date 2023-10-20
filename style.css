@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+  }
+html{
+    background: hwb(350 75% 0%);
+}  
+h3{
+    color: rgb(37, 37, 37);
+}
+#one
+{
+    background-color: lightgoldenrodyellow;
+
+    border: 10px dotted black;
+}
